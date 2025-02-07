@@ -1,0 +1,3 @@
+credentials/st/*.json
+user-interface/__pycache__
+ui-venv
