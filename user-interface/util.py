@@ -16,9 +16,7 @@ duration = 5  # seconds
 fs = 44100  # Sample rate
 channels = 1  # Mono recording
 
-# os.environ['OPENAI_API_KEY'] = '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'
-
-elevenlabs.set_api_key("8d4a6f35ef4b20c35358cb8f47a17fc5")
+elevenlabs.set_api_key("")
 
 def record_audio():
     recording = sd.rec(int(duration * fs), samplerate=fs, channels=channels)
