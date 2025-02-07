@@ -1,6 +1,8 @@
 Inspiration:
 
-Our project was inspired by a compelling presentation from one of our sponsors, highlighting the complexities elderly people face with modern banking. We realized the immense potential for technology to bridge this gap and make digital banking more accessible. This inspiration led us to conceive an application that leverages generative AI, aiming to simplify financial transactions and information for the elderly, thereby fostering their independence and confidence in using banking services.
+Our project was inspired by a compelling presentation from one of our sponsors, highlighting the complexities elderly people face with modern banking. 
+We realized the immense potential for technology to bridge this gap and make digital banking more accessible. 
+This inspiration led us to conceive an application that leverages generative AI, aiming to simplify financial transactions and information for the elderly, thereby fostering their independence and confidence in using banking services.
 
 What it does:
 
